@@ -19,7 +19,7 @@ role: Phd Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Faculty of Education, University of Western Ontario, Canada
-    url: https://www.edu.uwo.ca/index.html/
+    url: https://www.edu.uwo.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
