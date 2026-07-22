@@ -13,12 +13,12 @@ organizations:
 bio: PhD candidate researching L2 listening assessment, multimodal test design, and cognitive validity using EEG and eye tracking.
 
 interests:
-  - Second Language Testing and Assessment
+  - Second Language (L2) Testing and Assessment
   - L2 Listening
-  - Multimodal Listening Assessment
-  - Cognitive Validity
-  - EEG and Eye Tracking
-  - Technology-Enhanced Language Learning
+  - Biometric Research Methods (EEG and Eye Tracking)
+  - Research Methods and Research Synthesis
+  - Technology-Enhanced Language Learning and Assessment
+  - Language Test Preparation and Language Assessment Literacy
 
 education:
   courses:
@@ -55,10 +55,10 @@ social:
 highlight_name: true
 ---
 
-### About me
+### About Me
 
-I am a PhD candidate in Applied Linguistics at Western University. My research primarily examines the **cognitive validity of technology-enhanced second language listening assessments**, with particular attention to multimodal listening, test-taker response processes, and the effects of assessment design on performance.
+I am a PhD candidate in Applied Linguistics at Western University. My research examines the cognitive validity of technology-enhanced second language (L2) listening assessments, with particular attention to multimodal listening, test-taker response processes, and the effects of assessment design on performance.
 
-My PhD dissertation builds on my MA thesis on multimodal listening assessment, which received the [**2023 Caroline Clapham IELTS Masters Award**](https://ielts.org/researchers/awards-and-scholarships/caroline-clapham-ielts-masters-award). It integrates three studies: a scoping review, an electroencephalography (EEG) study, and an eye-tracking study. Across these projects, I investigate L2 test takers’ cognitive engagement, visual attention, note-taking, and interactions with spoken input and test items.
+My dissertation builds on my MA thesis, which examined the use of interactive video in L2 listening assessment and received the [**2023 Caroline Clapham IELTS Masters Award**](https://ielts.org/researchers/awards-and-scholarships/caroline-clapham-ielts-masters-award). The dissertation comprises three studies: a scoping review, an electroencephalography (EEG) study, and an eye-tracking study. Across these studies, I investigate L2 test takers’ cognitive engagement, visual attention, note-taking, and interactions with spoken input and test items.
 
-My work has appeared in [*Language Testing*](https://journals.sagepub.com/home/ltj), [*TESOL Quarterly*](https://onlinelibrary.wiley.com/journal/15457249), the [*International Journal of Listening*](https://www.tandfonline.com/journals/hijl20), and [*Research Synthesis in Applied Linguistics*](https://www.tandfonline.com/journals/rsal20). My doctoral research has been supported by the Duolingo English Test Dissertation Research Award and the TOEFL Grant for Doctoral Research in Language Assessment.
+My research has been published in *Language Testing*, *TESOL Quarterly*, *International Journal of Listening*, *Language Learning & Technology*, and *Research Synthesis in Applied Linguistics*. My doctoral research has been supported by the Duolingo English Test Doctoral Dissertation Award and the TOEFL Grant for Doctoral Research in Language Assessment.
