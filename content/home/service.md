@@ -20,4 +20,4 @@ design:
 
 ### Reviewing
 
-I have reviewed manuscripts for the *Applied Linguistics*, *International Journal of Listening*, *International Journal of Applied Linguistics*, *Language Assessment Quarterly*, and *Research Synthesis in Applied Linguistics*, as well as proposals for conferences including AAAL, AERA, MwALT, SLRF, and TSLL.
+I have reviewed manuscripts for *Applied Linguistics*, *International Journal of Listening*, *International Journal of Applied Linguistics*, *Language Assessment Quarterly*, and *Research Synthesis in Applied Linguistics*, as well as proposals for conferences including AAAL, AERA, MwALT, SLRF, and TSLL.
