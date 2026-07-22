@@ -129,35 +129,22 @@
 
 
    <div class="article-style">
-      <div class="main-content">{{ $person_page.Content }}</div>
-      <!-- <a class="btn btn-outline-primary btn-page-header btn-download" href="files/cv.pdf" target="_blank" rel="noopener">CV</a> -->
-    </div>
-    <div class="article-style">
-      <div class="main-content">{{ $person_page.Content }}</div>
+  <div class="main-content">{{ $person_page.Content }}</div>
+</div>
 
-      <!--
-      <a class="btn btn-outline-primary btn-page-header btn-download"
-         href="files/cv.pdf"
-         target="_blank"
-         rel="noopener">
-        CV
-      </a>
-      -->
-    </div>
+<figure class="mt-4">
+  <img
+    src="{{ "/uploads/western-spring.jpeg" | relURL }}"
+    alt="Spring blossoms at Western University"
+    class="img-fluid rounded"
+    loading="lazy"
+    style="width: 100%; height: 280px; object-fit: cover; object-position: center 42%;"
+  >
 
-    <figure class="mt-4">
-      <img
-        src="{{ "/uploads/western-university.jpeg" | relURL }}"
-        alt="Pink spring blossoms beside a stone building at Western University"
-        class="img-fluid rounded"
-        loading="lazy"
-        style="width: 100%; height: 280px; object-fit: cover; object-position: center 42%;"
-      >
-
-      <figcaption class="text-muted small mt-2">
-        Spring at Western University
-      </figcaption>
-    </figure>
+  <figcaption class="text-muted small mt-2">
+    Spring at Western University
+  </figcaption>
+</figure>
 
   </div>
 </div>
