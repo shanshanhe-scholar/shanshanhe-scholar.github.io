@@ -1,24 +1,13 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-active: false
-
-# This file represents a page section.
+active: true
 headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
+weight: 80
 title: Contact
-subtitle: ""
-
+subtitle: For research, teaching, and professional inquiries
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  # Contact details (edit or remove options as required)
-  email: simon.gravelle@cnrs.fr
-
+  email: she296@uwo.ca
 design:
   columns: '2'
 ---

@@ -1,31 +1,16 @@
 ---
+widget: blank
 active: true
-widget: portfolio
 headless: true
-weight: 20
+weight: 70
 title: News
-subtitle: ''
-content:
-  page_type: news
-  filter_default: 0
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Job
-      tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
-  count: 3
-  offset: 0
+subtitle: Recent research and professional updates
 design:
-  columns: '2'
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-  flip_alt_rows: false
+  columns: '1'
 ---
+
+- **July 2026** — Main data collection is underway for my EEG study of cognitive engagement in video- and audio-based L2 listening assessment.
+- **June 2026** — Presented dissertation research at the Language Testing Research Colloquium in Montréal, including an EEG work-in-progress presentation and a poster on biometric research in L2 listening assessment.
+- **June 2026** — Our article, “Interactive Videos in Multimodal Listening Assessments: Examining Language Learners' Perspectives,” was published online in *TESOL Quarterly*.
+- **2026** — Awarded a TOEFL Grant for Doctoral Research in Language Assessment to support my eye-tracking study.
+- **2025** — Received the Duolingo English Test Dissertation Research Award to support my EEG study.
