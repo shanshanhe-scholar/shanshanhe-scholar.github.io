@@ -13,13 +13,13 @@ design:
 
 - Stansfield, L., Sénécal, A.-M., **He, S.**, & Suvorov, R. (2026). The impact of test preparation practices on L2 test performance and language proficiency: A systematic review. *Research Synthesis in Applied Linguistics*. Advance online publication. [[DOI]](https://doi.org/10.1080/29984475.2026.2662635)
 
-- **He, S.**, & Suvorov, R. (2026). Interactive videos in multimodal listening assessments: Examining language learners' perspectives. *TESOL Quarterly*. Advance online publication. [[DOI](https://doi.org/10.1002/tesq.70099)
+- **He, S.**, & Suvorov, R. (2026). Interactive videos in multimodal listening assessments: Examining language learners' perspectives. *TESOL Quarterly*. Advance online publication. [[DOI]](https://doi.org/10.1002/tesq.70099)
 
-- Stansfield, L., Sénécal, A.-M., **He, S.**, & Suvorov, R. (2025). Protocol for a systematic review of the impact of test preparation practices on L2 test performance and language proficiency. *Research Synthesis in Applied Linguistics, 1*(1), 82–90. [[DOI](https://doi.org/10.1080/29984475.2025.2501997)
+- Stansfield, L., Sénécal, A.-M., **He, S.**, & Suvorov, R. (2025). Protocol for a systematic review of the impact of test preparation practices on L2 test performance and language proficiency. *Research Synthesis in Applied Linguistics, 1*(1), 82–90. [[DOI]](https://doi.org/10.1080/29984475.2025.2501997)
 
-- **He, S.**, Sénécal, A.-M., Stansfield, L., & Suvorov, R. (2025). A scoping review of research on second language test preparation. *Language Testing, 42*(1), 11–47. [[DOI](https://doi.org/10.1177/02655322241249754)
+- **He, S.**, Sénécal, A.-M., Stansfield, L., & Suvorov, R. (2025). A scoping review of research on second language test preparation. *Language Testing, 42*(1), 11–47. [[DOI]](https://doi.org/10.1177/02655322241249754)
 
-- Suvorov, R., & **He, S.** (2022). Visuals in the assessment and testing of second language listening: A methodological synthesis. *International Journal of Listening, 36*(2), 80–99. [[DOI](https://doi.org/10.1080/10904018.2021.1941028)
+- Suvorov, R., & **He, S.** (2022). Visuals in the assessment and testing of second language listening: A methodological synthesis. *International Journal of Listening, 36*(2), 80–99. [[DOI]](https://doi.org/10.1080/10904018.2021.1941028)
 
 ### Book chapter
 
@@ -27,4 +27,4 @@ design:
 
 ### Book review
 
-- **He, S.** (2022). Review of *Digital games and language learning: Theory, development and implementation*, by M. Peterson, K. Yamazaki, and M. Thomas. *Language Learning & Technology, 26*(1), 1–4. [[DOI](http://hdl.handle.net/10125/73459)
+- **He, S.** (2022). Review of *Digital games and language learning: Theory, development and implementation*, by M. Peterson, K. Yamazaki, and M. Thomas. *Language Learning & Technology, 26*(1), 1–4. [[DOI]](http://hdl.handle.net/10125/73459)
