@@ -1,90 +1,69 @@
 ---
-# Display name
 title: Shanshan He
-
-# Full name (for SEO)
 first_name: Shanshan
 last_name: He
-
-# Status emoji
 status:
   icon:
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position/tagline
-role: PhD Candidate
-
-# Organizations/Affiliations to show in About widget
+role: PhD Candidate in Applied Linguistics
 organizations:
-  - name: Faculty of Education, University of Western Ontario, Canada
+  - name: Faculty of Education, Western University
     url: https://www.edu.uwo.ca/
 
-# Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: PhD candidate researching L2 listening assessment, multimodal test design, and cognitive validity using EEG and eye tracking.
 
-# Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Second Language Assessment
+  - L2 Listening
+  - Multimodal and Video-Based Assessment
+  - Cognitive and Process Validity
+  - EEG and Eye Tracking
+  - Computer-Assisted Language Learning
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Applied Linguistics
+      institution: Western University
+      year: 2022–present
+    - course: MA in Applied Linguistics
+      institution: Western University
+      year: 2022
+    - course: Master of Professional Education in TESOL
+      institution: Western University
+      year: 2020
+    - course: BA in English
+      institution: Tianjin Foreign Studies University
+      year: ''
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# Alternatively, use `google-scholar` icon from `ai` icon pack
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/simongravelle
-    display:
-      header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
+    link: mailto:she296@uwo.ca
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
-  - icon: cv
+    link: https://scholar.google.com/citations?user=Oj_5ee4AAAAJ&hl=en
+  - icon: orcid
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: https://orcid.org/0000-0002-3666-2116
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shanshan-he-68383a187/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/shanshanhe-scholar
+    display:
+      header: true
+  - icon: university
+    icon_pack: fas
+    link: https://www.edu.uwo.ca/csw/grad/phd-profiles/shanshan-he/index.html
 
-highlight_name: true # Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-### About me ##
+### About me
 
-I am a computational physicist specializing in soft matter and fluids at interfaces, working at the LIPhy institute in Grenoble, France. In parallel, I serve as the Scientific Secretary of Section 08 of the National Committee.
+I am a PhD candidate in Applied Linguistics at Western University. My research examines the **cognitive validity of technology-enhanced second language listening assessments**, with particular attention to multimodal and video-based listening, test-taker response processes, and the effects of assessment design on performance.
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+My dissertation integrates a scoping review, an electroencephalography (EEG) experiment, and an eye-tracking study. Across these projects, I investigate cognitive engagement, visual attention, note-taking, and the ways learners interact with spoken input and test items. My broader interests include language test preparation, computer-assisted language learning, and language assessment literacy.
 
-<span style="display: block; height: 8px;"></span>
-
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
-
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
-
-<span style="display: block; height: 8px;"></span>
-
-### My primary outreach projects ##
-
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
-
+My work has appeared in *Language Testing*, *TESOL Quarterly*, the *International Journal of Listening*, and *Research Synthesis in Applied Linguistics*. My doctoral research has been supported by the Duolingo English Test Dissertation Research Award and the TOEFL Grant for Doctoral Research in Language Assessment.
