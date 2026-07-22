@@ -9,9 +9,7 @@ design:
   columns: '1'
 ---
 
-- **July 2026** — Main data collection is underway for my EEG study of cognitive engagement in video- and audio-based L2 listening assessment.
-- **June 2026** — Presented dissertation research at the Language Testing Research Colloquium in Montréal, including an EEG work-in-progress presentation and a poster on biometric research in L2 listening assessment.
-- **June 2026** — Our article, “Interactive Videos in Multimodal Listening Assessments: Examining Language Learners' Perspectives,” was published online in *TESOL Quarterly*.
-- **2026** — Awarded a TOEFL Grant for Doctoral Research in Language Assessment to support my eye-tracking study.
+
+- **March 2026** — Awarded the [*TOEFL Grant for Doctoral Research in Language Assessment*](https://www.linkedin.com/posts/the-toefl-r-test_announcing-the-2026-toefl-grant-for-doctoral-activity-7435070991845892097-y_Dx?utm_medium=ios_app&rcm=ACoAACwVikMBrYcntrskQ0sfsqpmneIc0MpbN1c&utm_source=social_share_send&utm_campaign=copy_link).
 - **Feburary 2026** — Received the [*Duolingo English Test Dissertation Research Award*](https://blog.englishtest.duolingo.com/duolingo-doctoral-dissertation-award-winners-2025/).
-- **December 2023** — Received the ([2023 Caroline Clapham IELTS Masters Award](https://ielts.org/news-and-insights/2023-caroline-clapham-ielts-masters-award-announcement)).
+- **December 2023** — Received the [2023 Caroline Clapham IELTS Masters Award](https://ielts.org/news-and-insights/2023-caroline-clapham-ielts-masters-award-announcement).
