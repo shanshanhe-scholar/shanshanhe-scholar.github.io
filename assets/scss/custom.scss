@@ -281,20 +281,28 @@ h2, h3 {
   }
 }
 }
-
-/* Keep the About section below the fixed navigation bar */
-#about {
-  padding-top: 120px !important;
-  scroll-margin-top: 80px;
+/* About section: prevent tall content from being vertically centered */
+#about.home-section {
+  display: block !important;
+  min-height: 0 !important;
+  height: auto !important;
+  padding-top: 100px !important;
+  padding-bottom: 60px !important;
+  scroll-margin-top: 70px;
 }
 
-/* Keep anchored sections from being hidden behind the toolbar */
+#about > .container {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  transform: none !important;
+}
+
 html {
-  scroll-padding-top: 80px;
+  scroll-padding-top: 70px;
 }
 
 @media (max-width: 991px) {
-  #about {
-    padding-top: 100px !important;
+  #about.home-section {
+    padding-top: 90px !important;
   }
 }
