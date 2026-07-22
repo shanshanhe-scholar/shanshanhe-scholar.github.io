@@ -4,14 +4,14 @@ active: true
 headless: true
 weight: 30
 title: Publications
-subtitle: See my complete and current record on [Google Scholar](https://scholar.google.com/citations?user=Oj_5ee4AAAAJ&hl=en)
+subtitle: See my updated record on [Google Scholar](https://scholar.google.com/citations?user=Oj_5ee4AAAAJ&hl=en)
 design:
   columns: '1'
 ---
 
 ### Peer-reviewed journal articles
 
-- Stansfield, L., Sénécal, A.-M., **He, S.**, & Suvorov, R. (2026). The impact of test preparation practices on L2 test performance and language proficiency: A systematic review. *Research Synthesis in Applied Linguistics*. Advance online publication. [https://doi.org/10.1080/29984475.2026.2662635](https://doi.org/10.1080/29984475.2026.2662635)
+- Stansfield, L., Sénécal, A.-M., **He, S.**, & Suvorov, R. (2026). The impact of test preparation practices on L2 test performance and language proficiency: A systematic review. *Research Synthesis in Applied Linguistics*. Advance online publication. [[DOI]](https://doi.org/10.1080/29984475.2026.2662635)
 
 - **He, S.**, & Suvorov, R. (2026). Interactive videos in multimodal listening assessments: Examining language learners' perspectives. *TESOL Quarterly*. Advance online publication. [https://doi.org/10.1002/tesq.70099](https://doi.org/10.1002/tesq.70099)
 
