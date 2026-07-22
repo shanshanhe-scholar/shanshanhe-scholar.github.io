@@ -56,8 +56,8 @@ highlight_name: true
 
 ### About Me
 
-I am a PhD candidate in Applied Linguistics at Western University. My research examines the cognitive validity of technology-enhanced second language (L2) listening assessments, with particular attention to multimodal listening, test-taker response processes, and the effects of assessment design on performance.
+I am a PhD candidate in Applied Linguistics at Western University. My research examines the **cognitive validity of technology-enhanced second language (L2) listening assessments**, with particular attention to **multimodal listening, test-taker response processes, and the effects of assessment design on performance**.
 
 My dissertation builds on my MA thesis, which examined the use of interactive video in L2 listening assessment and received the 2023 Caroline Clapham IELTS Masters Award. The dissertation comprises three studies: a scoping review, an electroencephalography (EEG) study, and an eye-tracking study. Across these studies, I investigate L2 test takers’ cognitive engagement, visual attention, note-taking, and interactions with spoken input and test items.
 
-My research has been published in *Language Testing*, *TESOL Quarterly*, *International Journal of Listening*, *Language Learning & Technology*, and *Research Synthesis in Applied Linguistics*. My doctoral research has been supported by the Duolingo English Test Doctoral Dissertation Award and the TOEFL Grant for Doctoral Research in Language Assessment.
+My research has been published in [*Language Testing*], [*TESOL Quarterly*], [*International Journal of Listening*], [*Language Learning & Technology*], and [*Research Synthesis in Applied Linguistics*]. My doctoral research has been supported by the **Duolingo English Test Doctoral Dissertation Award** and the **TOEFL Grant for Doctoral Research in Language Assessment**.
