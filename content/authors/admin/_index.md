@@ -23,17 +23,17 @@ interests:
 education:
   courses:
     - course: PhD in Applied Linguistics
-      institution: Western University
+      institution: Western University, Canada
       year: 2022–present
     - course: MA in Applied Linguistics
-      institution: Western University
+      institution: Western University, Canada
       year: 2022
     - course: Master of Professional Education in TESOL
-      institution: Western University
+      institution: Western University, Canada
       year: 2020
     - course: BA in English
-      institution: Tianjin Foreign Studies University
-      year: ''
+      institution: Tianjin Foreign Studies University, China
+      year: 2019
 
 social:
   - icon: envelope
