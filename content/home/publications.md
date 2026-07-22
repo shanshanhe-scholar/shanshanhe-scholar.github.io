@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 30
+weight: 20
 title: Publications
 subtitle: See my complete and current record on [Google Scholar](https://scholar.google.com/citations?user=Oj_5ee4AAAAJ&hl=en)
 design:
