@@ -13,12 +13,11 @@ organizations:
 bio: PhD candidate researching L2 listening assessment, multimodal test design, and cognitive validity using EEG and eye tracking.
 
 interests:
-  - Second Language (L2) Testing and Assessment
-  - L2 Listening
+  - Language Testing and Assessment
+  - L2 Listening Comprehension, Assessment, and Instruction
   - Biometric Research Methods (EEG and Eye Tracking)
-  - Research Methods and Research Synthesis
   - Technology-Enhanced Language Learning and Assessment
-  - Language Test Preparation and Language Assessment Literacy
+  - Research Synthesis
 
 education:
   courses:
@@ -28,7 +27,7 @@ education:
     - course: MA in Applied Linguistics
       institution: Western University, Canada
       year: 2022
-    - course: Master of Professional Education in TESOL
+    - course: MPEd in TESOL
       institution: Western University, Canada
       year: 2020
     - course: BA in English
