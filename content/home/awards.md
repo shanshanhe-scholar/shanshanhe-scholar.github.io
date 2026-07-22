@@ -12,6 +12,7 @@ design:
 - **2026 — TOEFL Grant for Doctoral Research in Language Assessment**, USD 1,500
 - **2026 — Student Conference Travel Award**, CAD 3,000
 - **2025 — Duolingo English Test Dissertation Research Award**, USD 6,000
+- **2025 — Student Conference Travel Award**, CAD 3,000
 - **2025 — International Language Testing Association Student Travel Grant**, USD 2,000
 - **2024 — Graduate Excellence in Teaching Award**, Western University
 - **2024 — Student Conference Travel Award**, CAD 2,165
