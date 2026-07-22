@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 20
+weight: 40
 title: Teaching
 subtitle: Graduate and teacher-education courses at Western University
 design:
