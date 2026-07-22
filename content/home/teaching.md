@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 40
 title: Teaching
-subtitle: Graduate and teacher-education courses at Western University
+subtitle: Graduate and teacher education courses at Western University
 design:
   columns: '1'
 ---
