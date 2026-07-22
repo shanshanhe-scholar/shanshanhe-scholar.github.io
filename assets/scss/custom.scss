@@ -281,3 +281,20 @@ h2, h3 {
   }
 }
 }
+
+/* Keep the About section below the fixed navigation bar */
+#about {
+  padding-top: 120px !important;
+  scroll-margin-top: 80px;
+}
+
+/* Keep anchored sections from being hidden behind the toolbar */
+html {
+  scroll-padding-top: 80px;
+}
+
+@media (max-width: 991px) {
+  #about {
+    padding-top: 100px !important;
+  }
+}
