@@ -27,4 +27,4 @@ design:
 
 ### Book review
 
-- **He, S.** (2022). Review of *Digital games and language learning: Theory, development and implementation*, by M. Peterson, K. Yamazaki, and M. Thomas. *Language Learning & Technology, 26*(1), 1–4. [[DOI]](http://hdl.handle.net/10125/73459)
+- **He, S.** (2022). Review of *Digital games and language learning: Theory, development and implementation*, by M. Peterson, K. Yamazaki, and M. Thomas. *Language Learning & Technology, 26*(1), 1–4. [[URI]](http://hdl.handle.net/10125/73459)
