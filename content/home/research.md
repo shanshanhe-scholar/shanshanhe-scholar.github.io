@@ -17,11 +17,13 @@ My dissertation investigates how second language learners cognitively engage wit
 
 A scoping review maps how eye tracking, EEG/ERP, fNIRS, fMRI, and related biometric methods have been used to investigate L2 listening. The review examines study designs, participants, listening tasks, analytical practices, and the contribution of biometric evidence to listening assessment validity.
 
-#### Study 2 — Cognitive engagement in multimodal listening Assessment, funded by [*Duolingo English Test Doctoral Dissertation Award*](https://www.englishtest.duolingo.com/research/grants)
+#### Study 2 — Cognitive engagement in multimodal listening Assessment 
+*Funded by the [*Duolingo English Test Doctoral Dissertation Award*](https://www.englishtest.duolingo.com/research/grants)*
 
 This EEG study examines whether test takers' cognitive engagement differs across video-based and audio-only listening conditions and while responding to multiple-choice items. Time-frequency measures of brain activity are combined with listening performance, response time, self-reported ratings, working memory, and proficiency measures.
 
-#### Study 3 — Question-stem access, visual attention, and note-taking, funded by [*TOEFL Grant for Doctoral Research in Language Assessment*](https://www.ets.org/toefl/grants/doctoral-research-grant-language-assessment.html)
+#### Study 3 — Question-stem access, visual attention, and note-taking
+*Funded by [*TOEFL Grant for Doctoral Research in Language Assessment*](https://www.ets.org/toefl/grants/doctoral-research-grant-language-assessment.html)*
 
 This eye-tracking study investigates how access to question stems influences learners' visual attention, note-taking, task performance, and perceptions during video-based academic listening. It compares listening and answering processes under question-access and no-access conditions.
 
