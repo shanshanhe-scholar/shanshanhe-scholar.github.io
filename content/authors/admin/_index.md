@@ -13,12 +13,12 @@ organizations:
 bio: PhD candidate researching L2 listening assessment, multimodal test design, and cognitive validity using EEG and eye tracking.
 
 interests:
-  - Second Language Assessment
+  - Second Language Testing and Assessment
   - L2 Listening
-  - Multimodal and Video-Based Assessment
-  - Cognitive and Process Validity
+  - Multimodal Listening Assessment
+  - Cognitive Validity
   - EEG and Eye Tracking
-  - Computer-Assisted Language Learning
+  - Technology-Enhanced Language Learning
 
 education:
   courses:
@@ -48,11 +48,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shanshan-he-68383a187/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/shanshanhe-scholar
-    display:
-      header: true
   - icon: university
     icon_pack: fas
     link: https://www.edu.uwo.ca/csw/grad/phd-profiles/shanshan-he/index.html
@@ -62,8 +57,8 @@ highlight_name: true
 
 ### About me
 
-I am a PhD candidate in Applied Linguistics at Western University. My research examines the **cognitive validity of technology-enhanced second language listening assessments**, with particular attention to multimodal and video-based listening, test-taker response processes, and the effects of assessment design on performance.
+I am a PhD candidate in Applied Linguistics at Western University. My research primarily examines the **cognitive validity of technology-enhanced second language listening assessments**, with particular attention to multimodal listening, test-taker response processes, and the effects of assessment design on performance.
 
-My dissertation integrates a scoping review, an electroencephalography (EEG) experiment, and an eye-tracking study. Across these projects, I investigate cognitive engagement, visual attention, note-taking, and the ways learners interact with spoken input and test items. My broader interests include language test preparation, computer-assisted language learning, and language assessment literacy.
+My PhD dissertation builds on my MA thesis on multimodal listening assessment, which received the **2023 Caroline Clapham IELTS Masters Award**(https://ielts.org/researchers/awards-and-scholarships/caroline-clapham-ielts-masters-award). It integrates three studies: a scoping review, an electroencephalography (EEG) study, and an eye-tracking study. Across these projects, I investigate L2 test takers’ cognitive engagement, visual attention, note-taking, and interactions with spoken input and test items.
 
-My work has appeared in *Language Testing*, *TESOL Quarterly*, the *International Journal of Listening*, and *Research Synthesis in Applied Linguistics*. My doctoral research has been supported by the Duolingo English Test Dissertation Research Award and the TOEFL Grant for Doctoral Research in Language Assessment.
+My work has appeared in [*Language Testing*](https://journals.sagepub.com/home/ltj), [*TESOL Quarterly*](https://onlinelibrary.wiley.com/journal/15457249), the [*International Journal of Listening*](https://www.tandfonline.com/journals/hijl20), and [*Research Synthesis in Applied Linguistics*](https://www.tandfonline.com/journals/rsal20). My doctoral research has been supported by the Duolingo English Test Dissertation Research Award and the TOEFL Grant for Doctoral Research in Language Assessment.
