@@ -27,6 +27,6 @@ This eye-tracking study investigates how access to question stems influences lea
 
 ### Additional research
 
-- **Interactive video in listening assessment:** Examining how videos with embedded questions influence test-taker experience and listening performance. Received [*Caroline Clapham IELTS Masters Award*](https://ielts.org/researchers/awards-and-scholarships/caroline-clapham-ielts-masters-award)
+- **Interactive video in listening assessment:** Examining how videos with embedded questions influence test-taker experience and listening performance.
 - **Language test preparation:** Synthesising evidence on preparation practices and their relationships with test performance and language proficiency.
 - **Teacher education:** Exploring language assessment literacy, digital identity texts, translanguaging, and the preparation of disciplinary teachers to support multilingual learners.
