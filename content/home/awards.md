@@ -9,11 +9,13 @@ design:
   columns: '1'
 ---
 
-### Research Awards and Grants
+### Research Awards, Grants and Scholarships
 
 - **2026 — TOEFL Grant for Doctoral Research in Language Assessment**, USD 1,500
 - **2025 — Duolingo English Test Doctoral Dissertation Award**, USD 6,000
 - **2023 — Caroline Clapham IELTS Masters Award**, GBP 3,000
+- **2022-2026 — Western Graduate Research Scholarship**, CAD 13,000 annually
+- **2020-2022 — Western Graduate Research Scholarship**, CAD 12,500
 
 ### Teaching and Conference Travel Awards
 
