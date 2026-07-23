@@ -41,6 +41,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Oj_5ee4AAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Shanshan-He-16?ev=hdr_xprf
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-3666-2116

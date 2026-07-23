@@ -17,7 +17,7 @@ design:
 
 ### Teaching and Conference Travel Awards
 
--**2026 — Faculty of Education Student Conference Travel Award**, CAD 3,000
+- **2026 — Faculty of Education Student Conference Travel Award**, CAD 3,000
 - **2025 — International Language Testing Association Student Travel Grant**, USD 2,000
 - **2025 — Faculty of Education Student Conference Travel Award**, CAD 3,000
 - **2024 — Graduate Excellence in Teaching Award**, Western University
