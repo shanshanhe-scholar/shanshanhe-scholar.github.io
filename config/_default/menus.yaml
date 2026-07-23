@@ -20,6 +20,9 @@ main:
   - name: News
     url: '#news'
     weight: 70
+  - name: Life Beyond Research
+    url: '#life-beyond-research'
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80
